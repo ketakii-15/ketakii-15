@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ketakii-15
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning html,css, javascript 
+- 👀 I’m interested in Web Development , Designing .
+- 🌱 I’m currently learning UI & Ux designing 
 - 💞️ I’m looking to collaborate on freelance ig
 - 📫 How to reach me instagram - 15_ketakii_
 
