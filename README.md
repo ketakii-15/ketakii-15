@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Billing Software**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ketakii-15?tab=repositories](https://github.com/ketakii-15?tab=repositories)
+- 👨‍💻 All of my projects are available at [PROJECTS ](https://github.com/ketakii-15?tab=repositories)
 
 - 💬 Ask me about **C,C++,Java,HTML,CSS**
 
