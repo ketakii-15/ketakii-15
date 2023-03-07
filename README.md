@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ketakilimaye" target="blank"><img src="https://img.shields.io/twitter/follow/ketakilimaye?logo=twitter&style=for-the-badge" alt="ketakilimaye" /></a> </p>
 
-- 🔭 I’m currently working on [Interlace CSS Library](https://github.com/vinyashegde/interlace.css)
+- 🔭 I’m currently working on [HTML MADE SIMPLE ! ](https://github.com/ketakii-15/HTML-LEARNING-MADE-SIMPLE-)
 
 - 🌱 I’m currently learning **React js And Kotlin**
 
